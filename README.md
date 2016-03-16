@@ -1,24 +1,4 @@
-## README
+## Action Cable Chat
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is part of a tutorial article about Action Cable
+You can view the tutorial [here](http://tutorials.pluralsight.com/write/in-review/ruby-ruby-on-rails/creating-a-chat-using-rails-action-cable)
